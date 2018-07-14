@@ -1,0 +1,6 @@
+function saySomething(x, y) {
+    var answer = x + y;
+    return answer;
+}
+
+alert(saySomething(10, 10));

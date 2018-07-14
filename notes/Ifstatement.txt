@@ -1,0 +1,9 @@
+var five = 8;
+
+if (five == 5){
+    document.write("it is equal");
+}else if(five == 4){
+alert("the answer is 4");
+}else{
+    alert("not equal");
+}

@@ -1,0 +1,12 @@
+// Assignment operators 
+
+var number1 = 7;
+var number2 = 8;
+
+//var sum = number1 + number2;
+
+number1 += number2;
+
+document.write(number1);
+
+//precedance MDAS

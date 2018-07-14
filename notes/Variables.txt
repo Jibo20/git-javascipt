@@ -1,0 +1,9 @@
+var day;
+var assignValue = 4561234;
+
+var years = 35;
+var someText = " years old";
+var gameOver = true;
+
+
+alert (years + someText);
